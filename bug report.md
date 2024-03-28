@@ -11,5 +11,4 @@
 
 ## Report the bug
 
-the email adress to send a bug to is:
-zandervander626@gmail.com
+idk
